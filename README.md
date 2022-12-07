@@ -5,16 +5,16 @@ This is a three month program to train students who deal with the -omics on data
 The program will have three components: Foundational skills, Soft skills, Project and writing your life compass.
 The program will take place for 2.5-3 months. 3 weeks of foundational skills learning, and 9 weeks of projects. The soft skills will be distributed within the 9 weeks of the projects to be done practically as the participants learn.
 
+# Deployment  
+* [] Docker
+* [] Kubernetes
+* [] mybinder.org
+
 # Foundational skills  
 * [] Fundamentals of Data Privacy and Anonymization
 * [] Data manipulation in Python, SQL, R & Bash
 * [] Data visualization in Python, R & Bash   
 * [] Machine learning: Supervised Learning, Unsupervised learning, semi-supervised learning and reinforcement learning  
-
-# Deployment  
-* [] Docker
-* [] Kubernetes
-* [] mybinder.org
 
 # Soft skils  
 * [] Communication on social media 
@@ -24,13 +24,13 @@ The program will take place for 2.5-3 months. 3 weeks of foundational skills lea
 
 # Projects  
 Participants will be required to select 2 projects max to work on over a period of 9 weeks, based on their interests and under the guidance of a mentor. Documentation of progress and communication will be key in this phase. The projects they can choose from include:
-[] Phylogenetics of 16S rRNA of drug resistant microbes.
-[] Siamese Convulotinal Neural Networks or Long Short-TermMemory (Deep learning) with scoring methods to compare sequences of interest.
-[] Cell Segmentation project and adaptation of work to bioinformatics.
-[] Exploring human 16S rRNA replicating study with investigator methods.
-[] Kenya kombucha versus United States(Oakland, California) Kombucha.
-[] Epidemic scanner: Use a couple of sources to determine when the next outbreak of a certain disease will occur.
-[] Resume scanner: Use webscraping and Natural Language Processing to determine what skills a candidate is lacking to be on the bleeding edge of the workforce.
+* [] Phylogenetics of 16S rRNA of drug resistant microbes.
+* [] Siamese Convulotinal Neural Networks or Long Short-TermMemory (Deep learning) with scoring methods to compare sequences of interest.
+* [] Cell Segmentation project and adaptation of work to bioinformatics.
+* [] Exploring human 16S rRNA replicating study with investigator methods.
+* [] Kenya kombucha versus United States(Oakland, California) Kombucha.
+* [] Epidemic scanner: Use a couple of sources to determine when the next outbreak of a certain disease will occur.
+* [] Resume scanner: Use webscraping and Natural Language Processing to determine what skills a candidate is lacking to be on the bleeding edge of the workforce.
 
 # Life compass   
 This is basically what do you want to do, how can you sustain what you want to do and how can you foster a growth mindset. Don't write it here. Please do that somewhere else safe.
