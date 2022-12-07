@@ -1,7 +1,7 @@
 # Data_Science_for_Genomics_Training
 This is a three month program to train students who deal with the -omics on data science and machine learning concepts to use in genomics.
 
-## Program.
+# Program Details
 The program will have three components: Foundational skills, Soft skills, Project and writing your life compass.
 The program will take place for 2.5-3 months. 3 weeks of foundational skills learning, and 9 weeks of projects. The soft skills will be distributed within the 9 weeks of the projects to be done practically as the participants learn.
 
