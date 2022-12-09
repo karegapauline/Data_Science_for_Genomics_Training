@@ -25,7 +25,7 @@ The program will take place for 2.5-3 months. 3 weeks of foundational skills lea
 # Projects  
 Participants will be required to select 2 projects max to work on over a period of 9 weeks, based on their interests and under the guidance of a mentor. Documentation of progress and communication will be key in this phase. The projects they can choose from include:
 * [] Phylogenetics of 16S rRNA of drug resistant microbes.
-* [] Siamese Convulotinal Neural Networks or Long Short-TermMemory (Deep learning) with scoring methods to compare sequences of interest.
+* [] Siamese Convolutional Neural Networks or Long Short-TermMemory (Deep learning) with scoring methods to compare sequences of interest.
 * [] Cell Segmentation project and adaptation of work to bioinformatics.
 * [] Exploring human 16S rRNA replicating study with investigator methods.
 * [] Kenya kombucha versus United States(Oakland, California) Kombucha.
